@@ -18,4 +18,4 @@ My goal is to become a hands-on cyber security professional (e.g. Ethical Hacker
 ## 🌐 Contact
 
 - LinkedIn: https://www.linkedin.com/in/ahmad-el-zubaidi
-- GitHub: github.com/cyberahmad04
+- GitHub: https://www.github.com/cyberahmad04
